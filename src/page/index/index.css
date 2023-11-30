@@ -1,0 +1,30 @@
+.page_contanier {
+    background: #eceff1;
+    padding: 20px;
+}
+.article_contanier {
+    max-width: 1000px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 40px 20px;
+    overflow: hidden;
+}
+.article_item {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.article_title {
+    font-size: 36px;
+    text-align: center;
+    color: #212121;
+}
+.acticle_title_sub {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.acticle_title_sub_time {
+    margin-left: 5px;
+    font-size: 18px;
+}
