@@ -26,7 +26,7 @@ const Index = () => {
       pageNum: current,
       pageSize: 10,
       status: 1,
-      uid: "d6a4125b-3336-4c32-88f8-15190a652931",
+      uid: "2ec205c1-e900-45f5-8d43-12859ad27774",
     });
     setData(data.data);
     setTotal(data.totalRows);
